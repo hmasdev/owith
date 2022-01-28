@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-owith = {editable = true, path = "."}
 
 [dev-packages]
 pytest = "*"
